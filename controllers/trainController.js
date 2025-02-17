@@ -89,5 +89,5 @@ const updateTotalSeats = async (req, res) => {
 module.exports = {
   addTrain,
   getTrains,
-  updateTotalSeats, // Export your new function
+  updateTotalSeats,
 };
